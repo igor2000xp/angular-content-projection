@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
+## Links
+[StackBlitz](https://stackblitz.com/~/github.com/igor2000xp/angular-content-projection)
+
+[GitHub](https://github.com/igor2000xp/angular-content-projection)
+
+[Alena's course](https://www.udemy.com/course/angular-advanced/)
+
+/Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/StackBlitz/_Alena-course/16-ContentChild/angular-content-projection
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
